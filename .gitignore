@@ -1,0 +1,12 @@
+# venv
+DataThon_Project_env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# env
+.env
