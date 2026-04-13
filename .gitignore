@@ -10,3 +10,11 @@ __pycache__/
 
 # env
 .env
+
+# 기업 제공 데이터(Rextreme_data)
+Rextreme_data/
+Events_Event_name.ipynb
+Landing_page.ipynb
+
+# 소상공인시장진흥공단_상가(상권)정보_20251231(용량이 너무 큼)
+소상공인시장진흥공단_상가(상권)정보_20251231/

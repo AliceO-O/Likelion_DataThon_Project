@@ -1,0 +1,7 @@
+# 프로젝트 진행시 필요 라이브러리들 정리
+requests
+python-dotenv
+pandas
+selenium
+webdriver-manager
+beautifulsoup4
